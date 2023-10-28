@@ -7,10 +7,7 @@ import Controller.ManagerMenu;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author hieu
- */
+
 public class Main {
     public static void main(String[] args) {
         new ManagerMenu().run();

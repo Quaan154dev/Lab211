@@ -8,10 +8,7 @@ package View;
 import Common.Library;
 import java.util.ArrayList;
 
-/**
- *
- * @author dell
- */
+
 public abstract class Menu<T> {
     protected String title;
     protected ArrayList<T> options;

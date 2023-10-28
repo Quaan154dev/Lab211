@@ -7,10 +7,7 @@ package Repository;
 
 import Model.Garbage_truck;
 
-/**
- *
- * @author hieu
- */
+
 public interface ICollectingGarbageRepository {
     void getInput(Garbage_truck g);
     void printTheCost(Garbage_truck g);

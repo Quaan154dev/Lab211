@@ -8,10 +8,7 @@ package Common;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- *
- * @author hieu
- */
+
 public class Library {
     protected Scanner sc;
 

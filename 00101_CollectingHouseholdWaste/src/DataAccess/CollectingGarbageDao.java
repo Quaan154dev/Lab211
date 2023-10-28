@@ -10,10 +10,7 @@ import Model.Garbage_station;
 import Model.Garbage_truck;
 import java.util.ArrayList;
 
-/**
- *
- * @author hieu
- */
+
 public class CollectingGarbageDao {
     Library l = new Library();
     private static CollectingGarbageDao instance = null;

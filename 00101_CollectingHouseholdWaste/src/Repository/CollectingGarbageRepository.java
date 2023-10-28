@@ -8,10 +8,6 @@ package Repository;
 import DataAccess.CollectingGarbageDao;
 import Model.Garbage_truck;
 
-/**
- *
- * @author hieu
- */
 public class CollectingGarbageRepository implements ICollectingGarbageRepository{
 
     @Override

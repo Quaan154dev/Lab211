@@ -5,10 +5,6 @@
  */
 package Model;
 
-/**
- *
- * @author hieu
- */
 public class Garbage_station {
     private int id;
     private int amount;

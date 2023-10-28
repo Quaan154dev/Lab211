@@ -7,10 +7,8 @@ package Model;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author hieu
- */
+
+
 public class Garbage_truck {
     private int total = 0;
     private int time = 0;

@@ -10,10 +10,7 @@ import Repository.CollectingGarbageRepository;
 import Repository.ICollectingGarbageRepository;
 import View.Menu;
 
-/**
- *
- * @author hieu
- */
+
 public class ManagerMenu extends Menu<String> {
 
     private ICollectingGarbageRepository garbageRepository;
